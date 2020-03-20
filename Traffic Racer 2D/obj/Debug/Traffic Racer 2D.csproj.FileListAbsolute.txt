@@ -1,0 +1,15 @@
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe.config
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.pdb
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csprojAssemblyReference.cache
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Form1.resources
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Properties.Resources.resources
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.GenerateResource.cache
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CoreCompileInputs.cache
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.exe
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.pdb
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Interop.WMPLib.dll
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Interop.WMPLib.dll
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\XNiko\source\repos\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.ResolveComReference.cache
